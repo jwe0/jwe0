@@ -20,4 +20,7 @@ The languages I know are as follows
 If you need to contact me email me @ joshuawebb2007@proton.me
 
 - jwe0
+
+josh@kali ~ $ logout
+bye bye
 ```
