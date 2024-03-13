@@ -1,24 +1,24 @@
 ```shell
-Welcome back
+Welcome back.
 username: josh
 password: ********
 
-Login Succesfull
+Login Successful.
 
 josh@kali ~ $ sudo apt service profile start
 josh@kali ~ $ ls
 drwxr-xr-x 2 josh josh 4096 Mar  7 10:00 profile
 josh@kali ~ $ cat ./profile
 
-Hello There my name is Joshua Webb I am a 16 year old programmer and junior penetration tester.
+Hello there, my name is Joshua Webb. I am a 16-year-old programmer and junior penetration tester.
 
-The languages I know are as follows
+The languages I know are as follows:
 - Python
-- Some C related languages (C, C++, C#)
+- Some C-related languages (C, C++, C#)
 - Vanilla HTML, CSS, JS
-- Some sveltekit
+- Some SvelteKit
 
-If you need to contact me email me @ joshuawebb2007@proton.me
+If you need to contact me, email me at joshuawebb2007@proton.me.
 
 - jwe0
 
