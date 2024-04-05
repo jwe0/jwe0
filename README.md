@@ -25,4 +25,5 @@ If you need to contact me, email me at joshuawebb2007@proton.me.
 josh@kali ~ $ logout
 bye bye
 ```
-![](https://komarev.com/ghpvc/?username=jwe0&color=ff69b4&style=for-the-badge&label=My+bands)
+![](https://komarev.com/ghpvc/?username=jwe0&color=ff69b4&style=for-the-badge&label=My+bands)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jwe0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
