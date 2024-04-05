@@ -25,3 +25,4 @@ If you need to contact me, email me at joshuawebb2007@proton.me.
 josh@kali ~ $ logout
 bye bye
 ```
+![](https://komarev.com/ghpvc/?username=jwe0)
