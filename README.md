@@ -17,6 +17,13 @@ The languages I know are as follows:
 - Some C-related languages (C, C++, C#)
 - Vanilla HTML, CSS, JS
 - Some SvelteKit
+- Rust
+
+The technologies I use are as follows:
+- NodeJS
+- Flask
+- Linux
+- Git
 
 If you need to contact me, email me at joshuawebb2007@proton.me.
 
