@@ -1,4 +1,4 @@
-<h1>Jwe0</h1>
+<h1 align="center">Jwe0</h1>
 <p>16 year old programmer</p>
 <img src="https://komarev.com/ghpvc/?username=jwe0&color=ff69b4&style=for-the-badge&label=My+bands">
 
