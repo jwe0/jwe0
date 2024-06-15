@@ -1,9 +1,11 @@
-<h1 align="center">Jwe0</h1>
-<p>16 year old programmer</p>
-<img src="https://komarev.com/ghpvc/?username=jwe0&color=ff69b4&style=for-the-badge&label=My+bands">
+<div align="center">
+    <h1 align="center">Jwe0</h1>
+    <p>16 year old programmer</p>
+    <img src="https://komarev.com/ghpvc/?username=jwe0&color=ff69b4&style=for-the-badge&label=Views">
+</div>
 
-<h3 >Languages</h3>
-<div>
+<div align="center">
+    <h3 >Languages</h3>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" width=50>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/svelte-icon.svg" width=50>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width=50>
@@ -11,8 +13,8 @@
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width=50>
 </div>
 
-<h3>Technologies</h3>
-<div>
+<div align="center">
+    <h3>Technologies</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=78>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linux-tux.svg" width=50>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ubuntu.svg" width=50>
