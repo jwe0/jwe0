@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width=50>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width=50>
   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width=50>
+  <img src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/rust.svg" width=50>
 </div>
 
 <div align="center">
@@ -32,3 +33,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=jwe0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width=500><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwe0&layout=compact&langs_count=6&theme=dark&hide_border=false" width=300>
 </div>
+
