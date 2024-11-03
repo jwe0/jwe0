@@ -1,6 +1,6 @@
 <h1 align="center">Jwe0</h1>
 <div align="center">
-    <p>16 year old programmer</p>
+    <p>17 year old programmer</p>
     <img src="https://komarev.com/ghpvc/?username=jwe0&color=ff69b4&style=for-the-badge&label=Views">
 </div>
 
