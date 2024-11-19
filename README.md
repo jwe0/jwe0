@@ -30,7 +30,7 @@
 
 <div align="center">
     <h3>Statistics</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=jwe0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width=500><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=jwe0&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width=500><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwe0&layout=compact&langs_count=6&theme=dark&hide_border=false" width=300>
 </div>
 
