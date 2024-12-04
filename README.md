@@ -1,7 +1,7 @@
 <h1 align="center">Jwe0</h1>
 <div align="center">
     <p>17 year old programmer</p>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/jwe0.png" alt="Your Image Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/jwe0.png" alt="My profile badge" />
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 <div align="center">
     <h3>Statistics</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=jwe0&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width=500><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwe0&layout=compact&langs_count=6&theme=dark&hide_border=false" width=300>
+    <img src="https://github-readme-stats.vercel.app/api?username=jwe0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true" width=500><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwe0&theme=material-palenight&layout=compact&langs_count=6&hide_border=false" width=300>
 </div>
 
