@@ -23,6 +23,19 @@
 </div>
 
 <div align="center">
+    <h3>TryHackMe Badges</h3>    
+    <img src="https://assets.tryhackme.com/img/badges/streak7.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/mrrobot.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/ohsint.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/firstfour.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/streak30.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/linux.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/careerready.svg" width=50>
+
+
+<div align="center">
     <h3>Contact</h3>
     <a href="mailto:joshuawebb2007@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
