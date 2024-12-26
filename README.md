@@ -33,6 +33,7 @@
     <img src="https://assets.tryhackme.com/img/badges/linux.svg" width=50>
     <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width=50>
     <img src="https://assets.tryhackme.com/img/badges/careerready.svg" width=50>
+    <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" width=50>
 
 
 <div align="center">
