@@ -41,10 +41,3 @@
     <a href="mailto:joshuawebb2007@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
 
-
-<div align="center">
-    <h3>Statistics</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=jwe0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true" width=500><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwe0&theme=material-palenight&layout=compact&langs_count=6&hide_border=false" width=300>
-</div>
-
